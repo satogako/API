@@ -1,3 +1,7 @@
+/* 
+JSHint instruction to conect API: https://ci-jshint.herokuapp.com/
+*/
+
 const API_KEY = "ZW8tYF-xICxhuq4sS5p7ZYVwVic";
 const API_URL = "https://ci-jshint.herokuapp.com/api";
 const resultsModal = new bootstrap.Modal(document.getElementById("resultsModal"));
